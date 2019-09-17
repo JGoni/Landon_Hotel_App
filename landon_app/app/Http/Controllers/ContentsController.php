@@ -11,9 +11,4 @@ class ContentsController extends Controller
     {
         return view('contents/home');
     }
-
-    public function show($client_id)
-    {
-        return __Method__ . ':'.$client_id;
-    }
 }

@@ -1,1 +1,1 @@
-reservations room
+bookRoom
